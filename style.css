@@ -34,6 +34,7 @@ body {
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
   border: 0px;
+  font-family: inherit;
 }
 
 /*Use grid column template with 5 buttons per row*/
