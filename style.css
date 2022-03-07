@@ -45,7 +45,7 @@ body {
   border: 0;
 }
 
-/*Add hover transition to family*/
+/*Add hover transition*/
 .buttons button {
   cursor: pointer;
   font-family: inherit;
